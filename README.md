@@ -1,5 +1,7 @@
 # 神经网络与深度学习
 
+> 本开源书 forked from [神经网络与深度学习](https://github.com/tigerneil/neural-networks-and-deep-learning-zh-cn)，作者为 [tigerneil](https://github.com/tigerneil)，欢迎大家 star 原作者的 [repo](https://github.com/tigerneil/neural-networks-and-deep-learning-zh-cn)，以便获得最新更新，谢谢！
+
 神经网络和深度学习是一本免费的在线书。本书会教会你：
 
 * 神经网络，一种美妙的受生物学启发的编程范式，可以让计算机从观测数据中进行学习
